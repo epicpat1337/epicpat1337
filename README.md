@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @epicpat1337
-- 👀 I’m interested in aviation, coding, productivity, tennis skiing
+- 👀 I’m interested in aviation, coding, productivity, tennis, skiing
 - 🌱 I’m currently learning to code, speaking spanish
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning to code (open lecture harvard)
 - 📫 How to reach me patrick.lutz@kkn.ch/ insta @epicpat_05
 
 <!---
